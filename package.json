@@ -1,0 +1,27 @@
+{
+  "name": "learning-components",
+  "version": "0.1.20150907132107",
+  "description": "",
+  "main": "dist/learningComponents.js",
+  "private": true,
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {
+    "karma": "^0.12.31",
+    "karma-browserify": "^2.0.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-cli": "0.0.4",
+    "karma-coverage": "0.2.6",
+    "karma-mocha": "^0.1.9",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-sinon-chai": "^0.2.0",
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "phantom-ownpropertynames": "^1.0.0"
+  }
+}
