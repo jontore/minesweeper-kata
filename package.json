@@ -1,12 +1,8 @@
 {
-  "name": "learning-components",
+  "name": "minesweeper-kata",
   "version": "0.1.20150907132107",
   "description": "",
-  "main": "dist/learningComponents.js",
   "private": true,
-  "directories": {
-    "test": "tests"
-  },
   "scripts": {
     "test": "karma start"
   },
